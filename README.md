@@ -16,6 +16,15 @@ Made by:
 @import url('https://fonts.googleapis.com/css2?family=Kalam&family=Poppins:wght@200;400;600&display=swap');
 </style>
 ```
+### Color
+- Yellow: rgb(255,255,0)
+- Blue to yellow gradient:
+``` css
+    background: linear-gradient(to right, #00c3ff, #ffff1c);
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+```
 ## Description 
 Countdown for my birthday, 26th of July. My age increments annually also in page.
 Change
