@@ -1,5 +1,6 @@
 # Countdown Timer
-![](./screenshot.jpg)
+![https://fatihbulbul1.github.io/countdown-timer/](./screenshot.jpg)
+Live website : https://fatihbulbul1.github.io/countdown-timer/
 # Overview
 Made by:
 - HTML
